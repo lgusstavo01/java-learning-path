@@ -20,6 +20,7 @@ This project is meant to serve as:
 - [Utilities and Math](./utilitiesAndMath) → Math library and utility classes.  
 - [Introduction to OOP](./introductionToPOO) → First steps with Object-Oriented Programming.  
 - [Enums and Composition](./enumsAndComposition) → Enums, object composition, and date/time APIs.  
+- [Inheritance and Polymorphism](./inheritanceAndPolymorphism) → Inheritance, polymorphism, enums, composition, and real-world modeling.  
 
 ### Upcoming Modules
 More modules will be added as my studies progress 🚀  
@@ -43,6 +44,7 @@ Este projeto serve como:
 - [Utilities and Math](./utilitiesAndMath) → Biblioteca Math e classes utilitárias.  
 - [Introduction to OOP](./introductionToPOO) → Primeiros passos em Programação Orientada a Objetos.  
 - [Enums and Composition](./enumsAndComposition) → Enums, composição de objetos e APIs de data/hora.  
+- [Inheritance and Polymorphism](./inheritanceAndPolymorphism) → Herança, polimorfismo, enums, composição e modelagem de casos reais.  
 
 ### Próximos Módulos
 Novos módulos serão adicionados conforme meus estudos avançarem 🚀  
